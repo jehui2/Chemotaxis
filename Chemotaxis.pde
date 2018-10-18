@@ -44,7 +44,7 @@ void draw()
      hue1 = (int)(Math.random()*256);
      hue2 = (int)(Math.random()*256);
      fill(hue, hue1, hue2);
-     ellipse(myX, myY, 40, 40);
+     ellipse(myX, myY, 30, 30);
    }
  	//lots of java!   
  }    
